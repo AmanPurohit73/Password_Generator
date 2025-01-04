@@ -1,5 +1,7 @@
 Password Generator 🔐
 
+https://password-genbasic.vercel.app/
+
 A simple, customizable password generator to create secure passwords with ease.
 
 Features:-
