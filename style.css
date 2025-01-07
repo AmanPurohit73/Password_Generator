@@ -6,7 +6,7 @@
 }
 
 .container {
-    background-image: linear-gradient(to right, #00b09b, #96c93d);
+    background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
     width: 100vw;
     height: 100vh;
     display: flex;
